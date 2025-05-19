@@ -9,7 +9,8 @@
 
 ## Habilidades
 
-<img align="center" alt="Icone Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" style="max-width: 100%;"> <img align="center" alt="Icone" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="max-width: 100%;"> <img align="center" alt="Icone" height="40" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" style="max-width: 100%;">
+<img align="center" alt="Icone Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" style="max-width: 100%;"> <img align="center" alt="Icone" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="max-width: 100%;"> <img align="center" alt="Icone Python" height="40" width="40"="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" />
+
 
 
           
