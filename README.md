@@ -2,6 +2,7 @@
 
 - Sou Vinícius, tenho 25 anos.
 - Formado em gestão de Recursos humanos, mas atualmente estou em transição de carreira para a área de análise de dados.
+- ADS 1/5
 
 <!--![Vinicius0liveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius0liveira&theme=highcontrast&show_icons=true) -->
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Vinicius0liveira&theme=highcontrast&show_icons=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius0liveira&theme=highcontrast&show_icons=true&layout=compact"/>
