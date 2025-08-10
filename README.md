@@ -1,6 +1,6 @@
 ## Bem vindo! 👋🎮
 
-- Sou Vinícius, tenho 25 anos.
+- Sou Vinícius, tenho 27 anos.
 - Formado em gestão de Recursos humanos, mas atualmente estou em transição de carreira para a área de análise de dados.
 - ADS 1/5
 
