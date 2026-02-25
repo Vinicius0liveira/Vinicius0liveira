@@ -4,9 +4,10 @@
 - Formado em gestão de Recursos humanos, mas atualmente estou em transição de carreira para a área de análise de dados.
 - ADS 2/5
 
-<!--![Vinicius0liveira GitHub stats](https://github-readme-stats.vercel.app/api?username=Vinicius0liveira&theme=highcontrast&show_icons=true) -->
-<img height="140em" src="https://github-readme-stats.vercel.app/api?username=Vinicius0liveira&theme=highcontrast&show_icons=true"/> <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius0liveira&theme=highcontrast&show_icons=true&layout=compact"/>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius0liveira&theme=highcontrast&show_icons=true&layout=compact)-->
+<div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Vinicius0liveira&show_icons=true&theme=highcontrast"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius0liveira&layout=compact&theme=highcontrast"/>
+</div>
 
 ## Habilidades
 
